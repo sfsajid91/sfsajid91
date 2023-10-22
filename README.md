@@ -8,7 +8,7 @@
 Responsible, wondering, and hard working.
 <br />
 
--   🌱 I’m currently learning Redux Toolkit
+-   🌱 I’m currently learning latest NextJs
 
 -   ✨ I like to build projects
 
