@@ -8,8 +8,6 @@
 Responsible, wondering, and hard working.
 <br />
 
--   🌱 I’m currently learning latest NextJs
-
 -   ✨ I like to build projects
 
 -   ⚡ Fun fact: I use spaces over Tabs
