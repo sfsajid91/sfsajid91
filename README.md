@@ -1,79 +1,165 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there 👋
 
-<br />
-<br />
+## Shaykh Farhan | Full-Stack Developer & Web Scraping Specialist
 
-### I'm Shaykh Farhan. I am a Fullstack web developer who loves to learn more and build new projects
+> Building production-grade web applications and solving complex automation challenges
 
-Responsible, wondering, and hard working.
-<br />
+---
 
--   ✨ I like to build projects
+## 🎯 About Me
 
--   ⚡ Fun fact: I use spaces over Tabs
+I'm a **full-stack web developer** specializing in:
+- **Web Scraping & Automation**: Expert at handling anti-bot systems (PerimeterX, Cloudflare, DataDome)
+- **Full-Stack Development**: React, Next.js, Express, Node.js, MongoDB, PostgreSQL
+- **Backend Engineering**: FastAPI, Prisma ORM, REST APIs, GraphQL
+- **DevOps & Deployment**: Docker, CI/CD pipelines, Vercel, cloud deployment
+- **AI & Automation**: Puppeteer, Playwright, n8n, AI agents for workflow automation
+- **Web3**: Ethers.js, smart contract interaction, blockchain integration
 
-<br/>
+Currently based in **Bangladesh** 🇧🇩
 
-## My Skill Set
+---
 
-<table><tr><td valign="top" width="50%">
+## 💼 Specializations
+
+### 🔍 Web Scraping & Data Extraction
+- Advanced anti-bot bypass techniques
+- GraphQL API scraping
+- Handling complex pagination and filtering
+- LRU caching for performance optimization
+- Real estate data extraction (Zillow, property platforms)
+
+### 🏗️ Full-Stack Applications
+- Real-time features (Socket.io, WebSockets)
+- Authentication (OAuth, JWT, Google Auth)
+- Database design (MongoDB, PostgreSQL)
+- API development and integration
+- Responsive UI/UX with modern frameworks
+
+### 🤖 Automation & AI
+- Browser automation for data collection
+- Workflow optimization
+- AI-powered agents for complex tasks
+- Screenshot capturing and processing
+
+---
+
+## 🚀 Featured Projects
+
+### 🏆 [Zillow Scraper API](https://github.com/sfsajid91/zillow-scraper)
+**Production-ready GraphQL scraper** for real estate data extraction
+- Bypasses anti-bot protection systems
+- 60-90% cost savings vs. existing APIs
+- Caching system reduces proxy usage
+- Full filter and pagination support
+- Real-time cache statistics
+- [Live Demo](https://zillow-scraper-farhan.vercel.app/)
+
+### 💬 [MERN Real-time Chat Application](https://github.com/sfsajid91/chat-app)
+Full-featured messaging platform with real-time synchronization
+- User authentication with Google OAuth
+- Real-time messaging with Socket.io
+- Multiple conversations support
+- Message history and search
+- [Live Application](https://chatapp-mern-e.netlify.app/)
+
+### 🛍️ [Shopverse](https://github.com/sfsajid91/shopverse)
+Modern e-commerce platform
+- Full product catalog management
+- Shopping cart and checkout
+- Payment integration
+- Responsive design
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
-
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="50%">
+- React, Next.js, Astro
+- TypeScript, JavaScript
+- TailwindCSS, Bootstrap
+- Redux, Context API
 
 ### Backend
+- Node.js, Express
+- FastAPI, Python
+- GraphQL, REST APIs
+- Prisma ORM
 
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
+### Databases
+- MongoDB (NoSQL)
+- PostgreSQL (SQL)
+- Redis (Caching)
 
-</td></tr></table>
+### Tools & Libraries
+- Puppeteer, Playwright (Browser Automation)
+- n8n (Workflow Automation)
+- Docker (Containerization)
+- Git, GitHub Actions (CI/CD)
 
-<br/>
+### Infrastructure
+- Vercel (Frontend Deployment)
+- AWS, DigitalOcean (Backend)
+- Docker & Docker Compose
 
-## Connect with me
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfsajid91&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sfsajid91&layout=compact&theme=dark)
+
+---
+
+## 💼 Looking For
+
+✅ **Freelance Projects** in:
+- Web scraping & data extraction
+- Full-stack web development
+- API development
+- Automation & workflow optimization
+
+✅ **Remote Opportunities** for:
+- Backend development roles
+- Full-stack positions
+- Technical leadership roles
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
-<a href="https://github.com/sfsajid91" target="_blank">
-<img src="https://www.svgrepo.com/download/475654/github-color.svg" alt="github" height="50" style="margin-right: 10px;" />
-</a>
-<a href="https://twitter.com/sfsajid91" target="_blank">
-<img src="https://www.svgrepo.com/download/475689/twitter-color.svg" alt="twitter" height="50" style="margin-right: 10px;" />
-</a>
-<a href="https://www.facebook.com/shaykh.farhan" target="_blank">
-<img src="https://www.svgrepo.com/download/448224/facebook.svg" alt="facebook" height="50" style="margin-right: 10px;" />
-</a>  
-<a href="https://t.me/sfsajid" target="_blank">
-<img src="https://www.svgrepo.com/download/354443/telegram.svg" alt="telegram" height="50" style="margin-right: 10px;" />
-</a>  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-zillow--scraper--farhan.vercel.app-blue?style=for-the-badge)](https://zillow-scraper-farhan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sfsajid91-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sfsajid91)
+[![Upwork](https://img.shields.io/badge/Upwork-sfsajid91-14a800?style=for-the-badge&logo=upwork)](https://upwork.com/freelancers/~018096a48a8e079665)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:sfsajid91@gmail.com)
+
 </div>
 
-<br/>
+---
 
-## Github Stats
+## 🔗 Quick Links
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sfsajid91&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+- 🎓 **Latest Projects**: Check out my [repositories](https://github.com/sfsajid91?tab=repositories)
+- 📈 **Portfolio**: [View my work](https://zillow-scraper-farhan.vercel.app/)
+- 💼 **Hire Me**: [Upwork Profile](https://upwork.com/freelancers/~018096a48a8e079665)
+- 📰 **LinkedIn**: [Connect with me](https://linkedin.com/in/sfsajid91)
 
-<br/>
+---
+
+## 🌟 Fun Facts
+
+- 🚀 I love building projects that solve real-world problems
+- 🧠 Continuously learning new technologies
+- 💪 Passionate about clean, maintainable code
+- 🔄 Always open to collaboration and learning from others
+
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=sfsajid91&&style=flat-square" align="center" />
+
+**Made with ❤️ by Shaykh Farhan**
+
 </div>
