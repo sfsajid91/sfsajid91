@@ -26,7 +26,7 @@ A high-performance Zillow scraper that reverse-engineers Zillow’s internal API
 
 **Links:**  
 - 🔗 Repo: https://github.com/sfsajid91/zillow-scraper-advanced  
-- 🌐 Live Demo: https://zillow-scraper.farhan.live  
+- 🌐 Live Demo: https://zillow-scraper-farhan.vercel.app
 - 🎥 Demo Video: https://www.youtube.com/watch?v=5wtuPkSGJyU
 
 ---
