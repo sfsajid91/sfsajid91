@@ -1,26 +1,50 @@
-# Hey, I'm Farhan.
+# Hey, I'm Farhan 👋
 
-**Full-stack developer building useful software for the web and beyond.**
+**Full-stack developer · Web automation · Data workflows**
 
-I work with founders and teams to build web and mobile apps, internal tools, data workflows, and browser automation. I care about the details that make software dependable and easy to use.
+I build web and mobile products, browser tools, and data pipelines. I enjoy the engineering behind reliable software: typed APIs, queues, validation, caching, and interfaces people can actually use.
 
-### Selected work
+[![Portfolio](https://img.shields.io/badge/Portfolio-farhanx.com-C6FF3D?style=flat-square&labelColor=0B0B12)](https://farhanx.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaykh%20Farhan-C6FF3D?style=flat-square&labelColor=0B0B12)](https://www.linkedin.com/in/sfsajid91/)
+[![Email](https://img.shields.io/badge/Email-contact%40farhanx.com-C6FF3D?style=flat-square&labelColor=0B0B12)](mailto:contact@farhanx.com)
 
-- **[Grassroots to Glory](https://farhanx.com/work/grassroots-to-glory/)** — A published iOS and Android app connecting grassroots football players, coaches, and scouts.
-- **[Zillow Scraper](https://farhanx.com/work/zillow-scraper/)** — A property data dashboard with search and CSV/JSON exports.
-- **[ScrapeAutomate](https://farhanx.com/work/scrapeautomate/)** — A team-built scraping API and dashboard for managing workflows.
-- **[LinkedIn Job Automation](https://farhanx.com/work/job-automation/)** — A local tool that turns saved job URLs into tailored DOCX resumes.
+## 🛠️ Tech stack
 
-### Open source
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0B12?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0B12?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/React-0B0B12?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0B0B12?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-0B0B12?style=flat-square&logo=react)
+![Bun](https://img.shields.io/badge/Bun-0B0B12?style=flat-square&logo=bun)
+![Node.js](https://img.shields.io/badge/Node.js-0B0B12?style=flat-square&logo=nodedotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0B12?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-0B0B12?style=flat-square&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-0B0B12?style=flat-square&logo=docker)
+![Playwright](https://img.shields.io/badge/Playwright-0B0B12?style=flat-square&logo=playwright&logoColor=45ba4b)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-0B0B12?style=flat-square&logo=puppeteer)
 
-- **[Omniscrape](https://github.com/sfsajid91/omniscrape)** — Extract author and page metadata from HTML.
-- **[Upwork Tools](https://github.com/sfsajid91/upwork-tools)** — A browser extension for seeing job and client insights.
-- **[Vox Motion Graphics](https://github.com/sfsajid91/vox-motion-graphics)** — An agent skill for directing Remotion films.
+## 🚀 Featured work
 
-### Tools I reach for
+**[Omniscrape](https://github.com/sfsajid91/omniscrape)** · TypeScript, Bun, Zod  
+Open-source HTML parser that extracts author and page metadata, including JSON-LD and framework hydration data, with provenance and conflict handling.
 
-TypeScript · React · Next.js · React Native · Bun · Node.js · PostgreSQL · Redis · Docker
+**[Upwork Tools](https://github.com/sfsajid91/upwork-tools)** · TypeScript, React, WXT  
+Manifest V3 extension that reads existing job responses to surface proposal counts and client hiring insights.
+
+**[Grassroots to Glory](https://farhanx.com/work/grassroots-to-glory/)** · React Native, Expo, TypeScript, Firebase  
+Published iOS and Android football app. Worked as a frontend-focused full-stack developer on role-based experiences and typed client-server calls.
+
+**[Zillow Scraper](https://farhanx.com/work/zillow-scraper/)** · Next.js, Elysia, Prisma, Redis  
+Property data dashboard with a separate API, cached responses, and CSV/JSON exports.
+
+**[LinkedIn Job Automation](https://farhanx.com/work/job-automation/)** · Bun, SQLite, TypeScript, OpenAI  
+Local workflow that processes saved job URLs through a SQLite queue and produces tailored DOCX resumes from validated model output.
+
+## ✍️ Writing
+
+- [Omniscrape: Extract Metadata from Any HTML](https://farhanx.com/blog/omniscrape-html-metadata-parser/)
+- [PHP2Shell: How It Was Found, What It Is, and How to Fix It](https://farhanx.com/blog/php2shell-how-it-was-found-what-it-is-and-how-to-fix-it/)
 
 ---
 
-Taking freelance and remote work. **[Explore my portfolio](https://farhanx.com/)** · **[Email me](mailto:contact@farhanx.com)** · **[LinkedIn](https://www.linkedin.com/in/sfsajid91/)**
+Open to **remote roles and freelance projects**. [See more of my work →](https://farhanx.com/)
